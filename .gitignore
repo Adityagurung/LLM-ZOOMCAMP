@@ -5,7 +5,7 @@ __pycache__/
 
 # dlt
 dlt/env
-
+dlt/zoomcamp_pipeline.duckdb
 
 # C extensions
 *.so
