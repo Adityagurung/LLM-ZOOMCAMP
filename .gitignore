@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 
 # dlt
+dlt/db.qdrant
 dlt/env
 dlt/*.duckdb
 
