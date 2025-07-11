@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#qdrant
+qdrant_storage*
+
 # dlt
 dlt/db.qdrant
 dlt/env
